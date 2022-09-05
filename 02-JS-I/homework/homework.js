@@ -188,6 +188,12 @@ function areaDelTriangulo(base, altura){
   //Escribe tu código aquí
 
 }
+ 
+
+holaaaa
+
+
+
 
 
 function deEuroAdolar(euro){
